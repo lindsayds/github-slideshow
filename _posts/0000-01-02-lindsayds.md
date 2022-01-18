@@ -2,5 +2,5 @@
 Layout: Slide
 Title: "Welcome to our second slide!"
 ---
-Your test
+This is painful
 Use the left arrow to go back!
